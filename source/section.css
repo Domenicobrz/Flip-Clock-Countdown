@@ -1,0 +1,71 @@
+#section {
+    position: relative;
+    padding: 100px 0;
+    background: #f9e0d5;
+    font-family: 'Bevan', cursive;
+
+    background: #f9e0d5;
+    background-repeat: repeat;
+    background-size: 800px;
+
+    font-size: 10px;
+}
+
+#s3discount {
+    color: #8b7578;
+    text-align: center;
+}
+
+#s3discountdesc {
+    color: #937e83;    
+    text-align: center;  
+    font-weight: 400;
+    font-size: 2em;  
+}
+
+#s3discount .fa-percent {
+    color: #dab097;
+}
+
+#s3off {
+    color: #a68e8a;
+}
+
+#s3discount .fa-shopping-basket {
+    color: #e6ab94;
+}
+
+#s3ddap {
+    color: #e6ab94;
+    font-size: 1.1em;
+}
+
+#s3ddas {
+    color: #c2a59f;
+    font-size: 1.2em;
+}
+
+#s3ddad {
+    color: #da9797;
+    font-size: 1.3em;
+}
+ 
+.s3fs2 {
+    font-size: 1.218em;
+}
+
+.s3fs3 {
+    font-size: 1.618em;
+}
+
+.s3fs3h {
+    font-size: 2em;
+}
+
+.s3fs4 {
+    font-size: 2.618em;
+}
+
+.s3fs5 {
+    font-size: 3.318em;
+}
